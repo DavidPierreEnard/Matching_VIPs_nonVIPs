@@ -1,0 +1,7 @@
+CDS	0.8	100000
+DNASEI	1	1.8
+FUNSEQ	0.2	0.3
+GC	0.13	0.75
+recomb	0.32	0.43
+TajimasD	0.2	0.26
+Phastcons	0.73	2
